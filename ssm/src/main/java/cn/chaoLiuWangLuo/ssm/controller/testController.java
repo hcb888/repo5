@@ -38,4 +38,8 @@ public class testController {
 
         System.out.println("hello open。。。。");
     }
+
+    public void loser(){
+        System.out.println("华瑞是垃圾吗");
+    }
 }
