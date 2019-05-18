@@ -29,4 +29,9 @@ public class testController {
     public void show(){
         System.out.println("你好");
     }
+
+    public void show1(){
+
+        System.out.println("hello clone。。");
+    }
 }
