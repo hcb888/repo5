@@ -32,7 +32,7 @@ public class testController {
 
     public void show1(){
 
-        System.out.println("hello clone。。。。");
+        System.out.println("hello clone。。。搜索。");
     }
     public void show2(){
 
