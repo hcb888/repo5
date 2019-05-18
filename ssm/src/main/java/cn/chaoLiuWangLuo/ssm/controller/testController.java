@@ -25,4 +25,8 @@ public class testController {
                 "            佛祖保佑       永无BUG\n" +
                 "*/");
     }
+
+    public void show(){
+        System.out.println("你好");
+    }
 }
