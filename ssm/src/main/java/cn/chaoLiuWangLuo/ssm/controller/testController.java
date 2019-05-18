@@ -38,4 +38,8 @@ public class testController {
 
         System.out.println("hello open。。。。");
     }
+
+    public void findById(){
+        System.out.println("根据id查询学生");
+    }
 }
