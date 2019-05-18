@@ -32,6 +32,10 @@ public class testController {
 
     public void show1(){
 
-        System.out.println("hello clone。。");
+        System.out.println("hello clone。。。。");
+    }
+    public void show2(){
+
+        System.out.println("hello open。。。。");
     }
 }
