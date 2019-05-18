@@ -40,7 +40,10 @@ public class testController {
     }
 
     public void loser(){
+        System.out.println("华瑞是垃圾吗");
         System.out.println("北大是垃圾吗");
         System.out.println("华瑞牛逼");
+        System.out.println("黑马是it的老大是华瑞的爹爹");
+        System.out.println("华瑞是个孬种");
     }
 }
